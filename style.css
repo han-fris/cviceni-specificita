@@ -1,0 +1,18 @@
+.card-body {
+  background-color: #fff0ee;
+  padding: 1rem 1.5rem;
+}
+
+.card-body h5 {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+button.btn-primary {
+  background-color: #b10849;
+  border: 1px solid #b10849;
+}
+
+div.card {
+  border: 1px solid #b10849;
+}
