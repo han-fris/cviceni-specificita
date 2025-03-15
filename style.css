@@ -1,4 +1,4 @@
-.card-body {
+div.card-body {
   background-color: #fff0ee;
   padding: 1rem 1.5rem;
 }
@@ -14,5 +14,5 @@ button.btn-primary {
 }
 
 div.card {
-  border: 1px solid #b10849;
+  border-color: #b10849;
 }
